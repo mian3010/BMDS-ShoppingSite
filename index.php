@@ -4,6 +4,10 @@
     <link rel="stylesheet" type="text/css" href="css/index.css"/>
   </head>
   <body>
-    <p> some text </p>
+    <div id="page-wrapper">
+      <div id="left-menu"></div>
+      <div id="center"></div>
+      <div id="right-menu"></div>
+    </div>
   </body>
 </html>
