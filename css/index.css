@@ -2,27 +2,25 @@
 #page-wrapper {
   margin: auto;
   width: 980px;
-  border: 1px solid red;
 }
 
 #left-menu  {
-  width: 198px;
+  width: 25%;
   height: 600px;
-  border: 1px solid red;
+  float: left;
 }
 
 #center {
-  width: 580px;
+  width: 50%;
   height: 600px;
-  position: relative;
-  left: 202px;
-  border: 1px solid red;
+  float: left;
 }
 
 #right-menu {
-  width: 198px;
-  height: 600 px;
-  position: relative;
-  left: 780;
-  border: 1px solid red;
+  width: 25%;
+  height: 600px;
+  float: right;
+}
+div {
+  outline: 1px solid red;
 }
